@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemilkaklotar
 - 👀 I’m interested in python, c, c++, java, html, css, js, angular.js, node.js, php, mysql, django, mongodb..
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning "Machine Learning"
 - 💞️ I’m looking to collaborate on ... IT company
 - 📫 How to reach me ... direct message me... or mail me on hemilkaklotar@gmail.com
 
