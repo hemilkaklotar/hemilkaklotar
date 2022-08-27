@@ -1,8 +1,7 @@
 ### 👋 Hi, I’m @hemilkaklotar
 - 👀 python, typescript, html, css, js, react.js, node.js, mysql, django, mongodb..
 - 👨‍💻 Full Stack MERN Developer
-- 💞️ I’m looking to collaborate on ... IT company
-- 📫 How to reach me ... direct message me... or mail me on hemilkaklotar@gmail.com
+- 📫 How to reach me ... direct message me... or mail me on <a href="mailto:hemilkaklotar000@gmail.com">
 - 🔗 [College Work And Projects in this Repo](https://github.com/hemilkaklotar/hemilclgwrk) 
 <!---
 hemilkaklotar/hemilkaklotar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
