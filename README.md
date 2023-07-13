@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 A Full Stack Web developer🎯 and designer🌈 from India.
 
-- 📫 How to reach me: [Instagram](https://instagram.com/hemil.ts) - [@Hemil.ts](https://instagram.com/hemil.ts)
+- 📫 How to reach me: [Instagram](https://instagram.com/hemilkaklotar) - [@Hemil](https://instagram.com/hemilkaklotar)
 
 
 **Languages:**  
