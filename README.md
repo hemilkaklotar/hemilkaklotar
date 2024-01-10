@@ -1,17 +1,10 @@
 ### 👋 Hi, I’m @hemilkaklotar
-- 👀 python, typescript, html, css, js, react.js, node.js, mysql, django, mongodb..
+- 👀 Python, TypeScript, HTML, CSS, JS, React.js, Node.js, MySQL, Django, MongoDB...
 - 👨‍💻 Full Stack MERN Developer
-- 📫 How to reach me ... direct message me... or mail me on <a href="mailto:hemilkaklotar000@gmail.com">
-- 🔗 [College Work And Projects in this Repo](https://github.com/hemilkaklotar/hemilclgwrk) 
-<!---
-hemilkaklotar/hemilkaklotar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: [Direct Message](https://github.com/hemilkaklotar) or mail me at [hemilkaklotar@gmail.com](mailto:hemilkaklotar@gmail.com)
 
-A Full Stack Web developer🎯 and designer🌈 from India.
 
-- 📫 How to reach me: [Instagram](https://instagram.com/hemil_kaklotar) - [@Hemil](https://instagram.com/hemil_kaklotar)
-
+A Full Stack Web developer🎯 and designer from India.
 
 **Languages:**  
 
@@ -24,17 +17,15 @@ A Full Stack Web developer🎯 and designer🌈 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-![Hemil's github stats](https://github-readme-stats.vercel.app/api?username=hemilkaklotar&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemilkaklotar&theme=tokyonight&layout=compact)
+![Hemil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemilkaklotar&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemilkaklotar&theme=tokyonight&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=hemilkaklotar)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hemil-kaklotar-018460140/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hemil%20Kaklotar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/hemil.ts/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hemil.ts-pink?style=flat-square&logo=instagram"></a>
-<a href="mailto:hemilkaklotar000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hemilkaklotar000@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/hemil-kaklotar-018460140/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hemil%20Kaklotar-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.instagram.com/hemil.ts/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hemil.ts-pink?style=flat-square&logo=instagram"></a>
+  <a href="mailto:hemilkaklotar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hemilkaklotar@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
-
- <!--⭐️ From [Hemil Kaklotar](https://github.com/hemilkaklotar)-->
