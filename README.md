@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GoLang, HTMX, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hemil-kaklotar-018460140/](https://www.linkedin.com/in/hemil-kaklotar-018460140/)
+<!-- - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hemil-kaklotar-018460140/](https://www.linkedin.com/in/hemil-kaklotar-018460140/) -->
 
 - 💬 Ask me about **react, node, typescript and python.**
 
