@@ -26,6 +26,6 @@ A Full Stack Web developer🎯 and designer from India.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemil-kaklotar-018460140/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hemil%20Kaklotar-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/hemil.ts/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hemil.ts-pink?style=flat-square&logo=instagram"></a>
+  <a href="https://www.instagram.com/hem17kaklotar"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hemilkaklotar-pink?style=flat-square&logo=instagram"></a>
   <a href="mailto:hemilkaklotar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hemilkaklotar@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
