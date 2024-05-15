@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hemilkaklotar" target="blank"><img src="https://img.shields.io/twitter/follow/hemilkaklotar?logo=twitter&style=for-the-badge" alt="hemilkaklotar" /></a> </p>
 
-- 🌱 I’m currently learning **GoLang, HTMX, Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, GoLang**
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hemil-kaklotar-018460140/](https://www.linkedin.com/in/hemil-kaklotar-018460140/) -->
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hemilkaklotar@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hemil-kaklotar-018460140/](https://www.linkedin.com/in/hemil-kaklotar-018460140/)
+- 📄 Know about my experiences [@hemilkaklotar](https://www.linkedin.com/in/hemil-kaklotar-018460140/)
 
 - ⚡ Fun fact **I am passionate about my job to produce quality of things.**
 
