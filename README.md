@@ -106,16 +106,3 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/hemil-kaklota
 </div>
 
 
-## Support: 
-<div align="center">
-<a href="https://www.buymeacoffee.com/hemilkaklotar">
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hemilkaklotar" />
-</a>
-</div>
-
-<div align="center">
-<a href="https://ko-fi.com/hemilkaklotar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hemilkaklotar" />
-</a>
-</div>
-
-
