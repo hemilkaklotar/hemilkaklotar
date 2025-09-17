@@ -15,9 +15,7 @@ I'm a Data Scientist and Full-Stack Developer specializing in building robust, p
 
 ---
 
-### My Philosophy
-
-My approach is built on a few core principles:
+### My approach is built on a few core principles:
 
 * **Reproducibility:** I believe that a good experiment is a reproducible one. I use notebooks and scripts to ensure that every result can be verified and built upon.
 * **Incremental Delivery:** I favor an agile workflow: start with a functional prototype, get feedback, and then iterate toward a polished, production-ready application.
