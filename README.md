@@ -1,33 +1,81 @@
-# Hemil Kaklotar
+<h1 align="center">Hey 👋 I'm Hemil</h1>
+<h3 align="center">Full Stack Engineer • AI Builder • Backend Heavy</h3>
 
-### Crafting Intelligent Systems from Code to Cloud
-
-I'm a Data Scientist and Full-Stack Developer specializing in building robust, production-ready applications that merge machine learning with modern web development. My work focuses on creating pragmatic, maintainable, and scalable solutions that solve real-world problems.
-
----
-
-### My Expertise
-
-* **Machine Learning & Data Science:** PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV, Pandas, NumPy, spaCy. My focus is on predictive analytics, NLP, and computer vision prototypes.
-* **Full-Stack & APIs:** React, Next.js, FastAPI, Django, Flask, Node.js, RESTful APIs, GraphQL. I build end-to-end dashboards and user interfaces that bring ML models to life.
-* **Data Engineering:** SQL (Postgres), MongoDB, Kafka, Apache Spark, Airflow. I design and manage data pipelines for effective model training and deployment.
-* **DevOps & Deployment:** Docker, AWS, CI/CD, basic Kubernetes, Git. I ensure code is not just functional but also reproducible and scalable in production environments.
+<p align="center">
+  I build systems that scale, automate, and actually solve problems.
+</p>
 
 ---
 
-### My approach is built on a few core principles:
+## 🚀 About Me
 
-* **Reproducibility:** I believe that a good experiment is a reproducible one. I use notebooks and scripts to ensure that every result can be verified and built upon.
-* **Incremental Delivery:** I favor an agile workflow: start with a functional prototype, get feedback, and then iterate toward a polished, production-ready application.
-* **Clear Communication:** I document my work thoroughly and provide clear instructions for demos and deployments, making collaboration seamless.
-
----
-
-### Showcase
-
-* **Portfolio & Open-Source:** Explore my featured projects and contributions on GitHub: https://github.com/hemilkaklotar
-* **Professional Profile:** Connect with me on LinkedIn to see my professional experience and testimonials: https://linkedin.com/in/hemil-kaklotar-018460140
+- 🧠 Building **AI-powered systems** (RAG, LLMs, automation)
+- ⚙️ Backend-focused with **Python (FastAPI)** & **Node.js**
+- 🎨 Crafting clean UIs with **React / Next.js**
+- ☁️ Deploying on **AWS, GCP, Docker**
+- 🔥 Turning complex ideas into **production systems**
 
 ---
 
-I'm always open to new challenges and collaborations. Feel free to reach out if you're building a team or have an interesting project in mind.
+## 🧩 Tech I Work With
+
+```ts
+const hemil = {
+  backend: ["Python (FastAPI, Django)", "Node.js"],
+  frontend: ["React", "Next.js", "TypeScript"],
+  ai: ["LLMs", "RAG", "Embeddings", "OpenAI"],
+  database: ["PostgreSQL", "MongoDB", "Redis"],
+  devops: ["Docker", "AWS", "GCP", "CI/CD"],
+};
+```
+
+---
+
+## 🛠️ What I’ve Built
+
+### ⚖️ AI Legal Assistant
+> RAG-based system for analyzing legal documents  
+→ FastAPI + Vector DB + LLM pipelines  
+→ Handles large datasets with async processing  
+
+---
+
+### 🛒 AI E-commerce Automation
+> Automates product workflows & listings  
+→ React + Django + PostgreSQL  
+→ AI-generated content + backend automation  
+
+---
+
+### 🎥 Interview AI Platform
+> Real-time interview analysis  
+→ WebRTC + React + AI scoring  
+→ Video-based evaluation system  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [Linkedin/hemil-kaklotar](https://linkedin.com/in/hemil-kaklotar-018460140)  
+- 🧑‍💻 https://github.com/hemilkaklotar
+
+---
+
+## ⚡ Current Focus
+
+> Building scalable AI systems + exploring agent workflows
+
+---
+
+## 🧠 Philosophy
+
+> "Build things that work. Then make them scale."
+
